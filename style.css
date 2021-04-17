@@ -1,15 +1,22 @@
-.line{
-    height:7px;
-    width:50px;
+.line {
+    height: 7px;
+    width: 50px;
     background-color: black;
-    margin:8px auto;
+    margin: 8px auto;
 }
-body{
+
+body {
     text-align: center;
 }
-img{
+
+img {
     transition: transform .2s;
 }
-img:hover{
-    transform:scale(0.9);
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#myCarousel {
+    background-color: antiquewhite;
 }
